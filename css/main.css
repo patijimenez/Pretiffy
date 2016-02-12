@@ -1,0 +1,119 @@
+body{
+	font-family: Oswald;
+}
+/*Header*/
+a{
+	text-decoration: none;
+	color: black;
+}
+header{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.about{
+	text-align: right;	
+}
+.cont{
+	text-align: left;
+}
+.textcenter{
+	text-align: center;
+}
+/*Imagen de fondo*/
+.crop{
+	width: 960px;
+	height: 300px;
+	overflow: hidden;
+	position: relative;
+}
+.crop img{
+	width: 960;
+	height: 500px;
+	position: absolute;
+}
+
+.zindex{
+	z-index: 1;
+	position: absolute;
+}
+.aligne{
+
+}
+.divname{
+	margin-top: -250px;
+	margin-left: 350px;
+	text-align: center;
+	color: white;
+	font-size: 24px;
+}
+.imgprofile{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	margin-left: 22px;
+}
+.background{
+	background-image: url("../images/tile2.png");
+	background-repeat: repeat;
+	margin-left: 0px;
+	margin-top: -5px;
+	padding-bottom: 25px;
+}
+.aboutme{
+	text-align: center;
+	padding-bottom: 10px;
+}
+.lorem{
+	margin-top: 20px;
+	font-size: 14px;
+	font-family: sans-serif;
+	
+}
+.colorp{
+	color: #B50D96;
+}
+.gatitocircular{
+ 	width: 160px;
+ 	height: 160px;
+ 	border-radius: 100px;
+ 	-moz-border-radius: 100px;
+ 	-webkit-border-radius: 100px;
+ 	-khtml-border-radius: 100px;
+ 	overflow: hidden; 
+ 	
+} 
+.contenedorgatitos{
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 150px;
+	padding-bottom: 70px;
+}
+#mft{
+	margin-top: 40px;
+	margin-bottom: 20px;
+
+}
+#gatito{
+	background: white;
+	padding: 3px;
+	border:1px solid #B50D96;
+}
+.marginleft{
+	margin-right: 15px;
+
+}
+#contact{
+	margin-top:50px;
+	font-size: 28px;
+
+}
+.redessociales{
+	margin-left: 120px;
+	margin-top: 150px;
+}
+.marginright{
+	margin: 0px;
+	padding: 0px;
+	
+
+}
